@@ -1,0 +1,8 @@
+com/mycompany/exercicio1/AbstractCensurador.class
+Main.class
+com/mycompany/exercicio1/ICensurador.class
+com/mycompany/exercicio1/Cliente.class
+com/mycompany/exercicio1/MicrosoftCensurador.class
+com/mycompany/exercicio1/AppleCensurador.class
+com/mycompany/exercicio1/IBMCensurador.class
+com/mycompany/exercicio1/FacebookCensurador.class
